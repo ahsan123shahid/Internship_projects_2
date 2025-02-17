@@ -12,7 +12,7 @@ This project implements a **Credit Card Fraud Detection System** using **RandomF
 ## 🚀 Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/fraud-detection.git
+git clone https://github.com/ahsan123shahid/fraud-detection.git
 cd fraud-detection
 ```
 
